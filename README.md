@@ -15,8 +15,9 @@ Furthermore, I would like to learn best practices for creating data visualizatio
 # Portfolio
 This is where my portfolio will go. 
 
-# OECD Visualizations
+## OECD Visualizations
 [OECD Visualizations](/OECD.md)
 
+## Assignment 3 and 4
 [Assignment 3 and 4](/Assignment3.md)
 
