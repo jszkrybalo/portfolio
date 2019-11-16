@@ -25,3 +25,6 @@ I really struggle with pen and paper, so I actually created very rough drafts in
 ![Two](wireframe 2.png)
 ![Three](wireframe 3.png)
 ![Four](wireframe 4.png)
+
+
+Finally, I gave up and went back to excel. 
