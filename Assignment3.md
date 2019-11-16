@@ -28,3 +28,4 @@ I really struggle with pen and paper, so I actually created very rough drafts in
 
 
 Finally, I gave up and went back to excel. 
+![Final](Wireframe FINAL-page-001.jpg)
