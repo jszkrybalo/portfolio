@@ -29,10 +29,18 @@ I really struggle with pen and paper, so I actually created very rough drafts in
 
 
 Finally, I gave up and went back to excel (just for now I promise)
-![Final](Wireframe FINAL-page-001.jpg)
+![Final Wireframe](Wireframe FINAL-page-001.jpg)
 
 ## Step Four
 I tested my wireframes on my coworker and they were just as confused by my solution as the original visualization. I suppose this makes sense, since I really only flipped the axes and changed the colors. This is proving more difficult than I anticipated. I think my lack of understanding about the story the original visualization was trying to tell made it more difficult for me to work through creating my own solution. 
 My coworker had the same initial problems I had: not being able to glean the information necessary to interpret the message. I think I need to re-think my approach. 
 
 
+## Step Five
+In the end, I came up with two possible solutions, neither of which I am very happy with. 
+
+For the first, I made the very bold choice to try a Bar of Pie chart. What I like about this one is I think it helps the reader understand the context of the percentages they're seeing. Both my reviewer and I had trouble understanding that the date of immigration was a category of a current percentage. I think this helps clarify that we're looking at the breakdown of a segment of the population. What I don't like is that it's a bit clunky, and I think there may be too much information trying to be conveyed. 
+![Solution 1](Pie Charts-page-001.jpg)
+
+For the second solution, I took the original visualization and tried to remove all unnecessary details to distill the message. I also experimented with using more text to better explain and summarize what the reader is looking at. I think it does succeed in distilling the idea. I think where it falls short is making it clear that we are segmenting percentages of a population. 
+![Solution 2](
