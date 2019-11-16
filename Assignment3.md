@@ -20,5 +20,5 @@ Lastly, I'm not sure it's necessary to compare our data point of interest (Thund
 
 ## Step Three
 
-I really struggle with pen and paper, so I actually created very rough drafts in tableau to serve as my wireframes. I did not take the time to adjust all the labels and details. Here are some of my disastrous iterations: 
-
+I really struggle with pen and paper, so I actually created very rough drafts in tableau to serve as my wireframes. I did not take the time to adjust all the labels and details. Here are some of my disastrous first iterations: 
+![One](/wirefra
