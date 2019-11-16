@@ -32,6 +32,7 @@ Finally, I gave up and went back to excel (just for now I promise)
 ![Final](Wireframe FINAL-page-001.jpg)
 
 ## Step Four
-I tested my wireframes on my coworker and they were just as confused by my solution as the original visualization. I suppose this makes sense, since I really only flipped the axes and changed the colors. This is proving more difficult than I anticipated. 
+I tested my wireframes on my coworker and they were just as confused by my solution as the original visualization. I suppose this makes sense, since I really only flipped the axes and changed the colors. This is proving more difficult than I anticipated. I think my lack of understanding about the story the original visualization was trying to tell made it more difficult for me to work through creating my own solution. 
+My coworker had the same initial problems I had: not being able to glean the information necessary to interpret the message. I think I need to re-think my approach. 
 
 
