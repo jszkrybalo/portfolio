@@ -43,4 +43,6 @@ For the first, I made the very bold choice to try a Bar of Pie chart. What I lik
 ![Solution 1](Pie Charts-page-001.jpg)
 
 For the second solution, I took the original visualization and tried to remove all unnecessary details to distill the message. I also experimented with using more text to better explain and summarize what the reader is looking at. I think it does succeed in distilling the idea. I think where it falls short is making it clear that we are segmenting percentages of a population. 
-![Solution 2](
+![Solution 2](simplified-page-001.jpg)
+
+Overall, this was a very tough exercise for me and really gave me a deeper level of sympathy and understanding for whoever created that first terrible visualization. I'm not sure I could have done much better. 
