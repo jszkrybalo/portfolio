@@ -19,3 +19,6 @@ Splitting the current percentages into decades is also very confusing. I underst
 Lastly, I'm not sure it's necessary to compare our data point of interest (Thunder Bay) to both Ontario and Canada as a whole. I want to consider that more. 
 
 ## Step Three
+
+I really struggle with pen and paper, so I actually created very rough drafts in tableau to serve as my wireframes. I did not take the time to adjust all the labels and details. Here are some of my disastrous iterations: 
+
