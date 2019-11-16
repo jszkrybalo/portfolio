@@ -27,5 +27,11 @@ I really struggle with pen and paper, so I actually created very rough drafts in
 ![Four](wireframe 4.png)
 
 
-Finally, I gave up and went back to excel. 
+
+Finally, I gave up and went back to excel (just for now I promise)
 ![Final](Wireframe FINAL-page-001.jpg)
+
+## Step Four
+I tested my wireframes on my coworker and they were just as confused by my solution as the original visualization. I suppose this makes sense, since I really only flipped the axes and changed the colors. This is proving more difficult than I anticipated. 
+
+
