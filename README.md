@@ -21,6 +21,6 @@ Furthermore, I would like to learn best practices for creating data visualizatio
 [Assignment 3 and 4](/Assignment3.md)
 
 ## Final Project
-[Part One](/Final_Project.md)
+[Part One](/Final_project.md)
 
 
