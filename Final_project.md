@@ -39,3 +39,7 @@ To add some color to the story, I may follow up with one or two examples of famo
 This section will shift the focus to non-profit theatre. It will first describe how the revenue streams differ from Broadway. Then, a visualization will show the growth of the non-profit theatre sector over time, measured by yearly revenue. 
 This section will conclude with a call to action that empowers and encourages the audience to attend local theatre productions. 
 
+### Data
+The data about Broadway revenues and attendance comes from The Broadway League. The complete dataset can be found online at https://broadwayleague.com/research/grosses-broadway-nyc/
+
+Data about inflation will be taken from the Bureau of Labor Statistics' website, https://stats.bls.gov/
