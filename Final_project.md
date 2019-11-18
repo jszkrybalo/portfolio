@@ -42,4 +42,11 @@ This section will conclude with a call to action that empowers and encourages th
 ### Data
 The data about Broadway revenues and attendance comes from The Broadway League. The complete dataset can be found online at https://broadwayleague.com/research/grosses-broadway-nyc/
 
-Data about inflation will be taken from the Bureau of Labor Statistics' website, https://stats.bls.gov/
+Further data about the economic state of Broadway, including notable financial successes and failures, will be collected from the Internet Broadway Database: https://www.ibdb.com/
+
+Data about inflation will be taken from the Bureau of Labor Statistics' website: https://stats.bls.gov/
+
+Finally, data about the economics of non-profit theatre companies comes from TCG's annual Theatre Facts report. All reports from 2000 to 2018 are available to download from http://www.tcg.org/Default.aspx?TabID=1576 
+
+### Methods
+I will be using Shorthand to create my final project. From a cursory exploration, it seems user-friendly enough for me to use to create a successful project that will be engaging, interactive, and informative. 
