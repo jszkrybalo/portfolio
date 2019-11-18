@@ -13,11 +13,13 @@ I would like to leave this class with a better understanding of design principle
 Furthermore, I would like to learn best practices for creating data visualizations that are simple and easy to read. I see this coming in to play in my future career in the form of annual reports and board reports. I want to be able to convey information about my company's financial health and the success of our programming in visualizations that make sense to my reader, carefully determining what information is important to include and what information can be left out. 
 
 # Portfolio
-This is where my portfolio will go. 
 
 ## OECD Visualizations
 [OECD Visualizations](/OECD.md)
 
 ## Assignment 3 and 4
 [Assignment 3 and 4](/Assignment3.md)
+
+## Final Project
+
 
