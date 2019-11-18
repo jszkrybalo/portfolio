@@ -49,4 +49,4 @@ Data about inflation will be taken from the Bureau of Labor Statistics' website:
 Finally, data about the economics of non-profit theatre companies comes from TCG's annual Theatre Facts report. All reports from 2000 to 2018 are available to download from <http://www.tcg.org/Default.aspx?TabID=1576> 
 
 ### Methods
-I will be using Shorthand to create my final project. From a cursory exploration, it seems user-friendly enough for me to use to create a successful project that will be engaging, interactive, and informative. 
+I will be using Shorthand to create my final project. From a cursory exploration, it seems user-friendly enough for me to use to create a successful project that will be engaging, interactive, and informative. Especially since I'm using a lot of relatively simple chart types that may not immediately engage my audience, I want to make the entire presentation as interactive as possible. I am nervous about learning a new tool, but I'm confident in my storytelling skills. 
