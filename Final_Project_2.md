@@ -135,11 +135,8 @@ Completeness: 4
 Intrigue: 5
 * No inflation rates here?
 ##### Overall
-Do you think there is a story inherent in the way the data is presented? 
  * Yes! I think this is interesting and it tells a story.
-If so, is the story easy to follow? 
  * Yes, the story goes from showing attendance rates to how that is affecting revenue.
-Do you have any other notes or recommendations about the overall flow of the piece?
  * I’d like to know how many more productions are being put on each year for something to compare against the attendance/revenue numbers.
  
  
@@ -174,11 +171,8 @@ Completeness: 4
 Intrigue: 4
 *  I would maybe color code overall broadway separately from non profit. And coordinate the corresponding visualizations. Also why does this graph have a gross vs. adjusted revenue like the first one?
 ##### Overall
-1. Do you think there is a story inherent in the way the data is presented? 
 * Yes
-2. If so, is the story easy to follow? 
 * Yes
-3. Do you have any other notes or recommendations about the overall flow of the piece? 
 * Nope
 
 
