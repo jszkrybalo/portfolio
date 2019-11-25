@@ -38,7 +38,7 @@ I asked each test user to look through my wireframes and storyboard and answer s
 ###### Please answer for each of the visualizations
 1. In your own words, please use 1-2 sentences to state what you think the main message of this visualization is. 
 2. Please rate the visualization on each of the following elements using the scale below:
-1-Very Bad | 2-Poor | 3-Fair | 4-Good | 5- Excellent
+| 1-Very Bad | 2-Poor | 3-Fair | 4-Good | 5- Excellent |
   a.	Aesthetics- is it nice to look at?
   b.	Mood- do the colors and fonts suit the message?
   c.	Clarity- how easy is it to navigate and understand?
@@ -62,7 +62,16 @@ Completeness: 3.5
 Intrigue: 4.5 
 * I know what Broadway is but everyone might not. Does this include off-bway? Just in NY? Travelling Shows?
 ##### Viz #2
-
+* This is showing the Broadway grosses and adjusted inflation. The overall message is that overall it has increased. I would say I’m impressed by the increase
+Aesthetics: 4
+Mood: 4
+Clarity: 3.5 
+Completeness: 4
+Intrigue: 4
+* You have to scroll across to see everything. It would be better if its all together in one frame. 
+* The legend is hidden away on the right. It should be the first thing you see.
+##### Viz #3
+* 
 
 
 
