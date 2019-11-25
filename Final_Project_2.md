@@ -128,8 +128,49 @@ Intrigue: 5
 * No inflation rates here?
 ##### Overall
 1. Do you think there is a story inherent in the way the data is presented? 
-* Yes! I think this is interesting and it tells a story.
+ * Yes! I think this is interesting and it tells a story.
 2. If so, is the story easy to follow? 
-* Yes, the story goes from showing attendance rates to how that is affecting revenue.
+ * Yes, the story goes from showing attendance rates to how that is affecting revenue.
 3. Do you have any other notes or recommendations about the overall flow of the piece?
-* I’d like to know how many more productions are being put on each year for something to compare against the attendance/revenue numbers.
+ * I’d like to know how many more productions are being put on each year for something to compare against the attendance/revenue numbers.
+ 
+ 
+ #### Test User 3
+##### Viz #1
+* I think the main message of this visualization is that Broadway is seeing increases in attendance. 
+Aesthetics: 5
+Mood: 5
+Clarity: 5
+Completeness: 5
+Intrigue: 3
+##### Viz #2
+* I think the main message of this visualization is that Broadway is also seeing a general increase in revenue through time. 
+Aesthetics: 5
+Mood: 5
+Clarity: 5
+Completeness: 5
+Intrigue: 4
+##### Viz #3
+* This visual shows me the non-profit theatre has an overall increase of attendance over time. 
+Aesthetics: 5
+Mood: 5
+Clarity: 5
+Completeness: 5
+Intrigue: 4
+##### Viz #4
+* This visualization shows the overall growth of revenue specifically for non-profit theatre. 
+Aesthetics: 5
+Mood: 4
+Clarity: 5
+Completeness: 4
+Intrigue: 4
+*  I would maybe color code overall broadway separately from non profit. And coordinate the corresponding visualizations. Also why does this graph have a gross vs. adjusted revenue like the first one?
+##### Overall
+1. Do you think there is a story inherent in the way the data is presented? 
+* Yes
+2. If so, is the story easy to follow? 
+* Yes
+3. Do you have any other notes or recommendations about the overall flow of the piece? 
+* Nope
+
+
