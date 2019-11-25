@@ -23,16 +23,16 @@ Using the class as a frame of reference, I have made some general assumptions ab
 
 My selection of test users was informed by my intended audience parameters and a level of convenience. I selected three test users who I thought brought a variety of viewpoints to my work. They are:
 
-1. My Roommate 
+1. **My Roommate** 
 An Arts Management master's student with a background in orchestral music. She is familiar with non-profit arts organizations but not necessarily with theatre. I felt that her viewpoint, though closest to my own, would be valuable to me to make sure that my story is still compelling for someone who does come to the table with a bit more knowledge about the subject matter. She has also not taken the Telling Stories With Data class. 
 
-2. My girlfriend
+2. **My girlfriend**
 A MEIM student currently living in LA. Her background is in the music industry. I thought she could provide a more commercial point of view and let me know if the non-profit sections in particular were too niche or had any jargon. 
 
-3. My Sister
+3. **My Sister**
 An administrative assistant planning to pursue a Master's or PhD in microbiology. Though she is not currently enrolled in school, my sister is very well-educated and has a scientific background, which I thought would bring a more analytical viewpoint to my visualizations. 
 
-### User Feedback 
+### User Feedback Survey
 
 I asked each test user to look through my wireframes and storyboard and answer some questions about each of the major visualizations, plus a few questions about the overall flow of the story. The questions are below: 
 ###### Please answer for each of the visualizations
@@ -49,6 +49,20 @@ I asked each test user to look through my wireframes and storyboard and answer s
 1.	Do you think there is a story inherent in the way the data is presented? 
 2.	If so, is the story easy to follow? 
 3.	Do you have any other notes or recommendations about the overall flow of the piece?
+
+### User Feedback Responses 
+
+#### Test User 1
+##### Viz #1
+* The message is that overall, over the time period shown, the number of people seeing Broadway shows has increased. 
+Aesthetics: 4
+Mood: 4
+Clarity: 4.5
+Completeness: 3.5 
+Intrigue: 4.5 
+* I know what Broadway is but everyone might not. Does this include off-bway? Just in NY? Travelling Shows?
+##### Viz #2
+
 
 
 
