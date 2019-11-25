@@ -22,5 +22,7 @@ Furthermore, I would like to learn best practices for creating data visualizatio
 
 ## Final Project
 [Part One](/Final_project.md)
+[Part Two](/Final_Project_2.md)
+
 
 
