@@ -24,7 +24,7 @@ Using the class as a frame of reference, I have made some general assumptions ab
 My selection of test users was informed by my intended audience parameters and a level of convenience. I selected three test users who I thought brought a variety of viewpoints to my work. They are:
 
 1. **My Roommate** 
-An Arts Management master's student with a background in orchestral music. She is familiar with non-profit arts organizations but not necessarily with theatre. I felt that her viewpoint, though closest to my own, would be valuable to me to make sure that my story is still compelling for someone who does come to the table with a bit more knowledge about the subject matter. She has also not taken the Telling Stories With Data class. 
+An Arts Management master's student with a background in orchestral music. She is familiar with non-profit arts organizations but not necessarily with theatre. I felt that her viewpoint, though closest to my own, would be valuable to me to make sure that my story is still compelling for someone who does come to the table with a bit more knowledge about the subject matter. 
 
 2. **My girlfriend**
 A MEIM student currently living in LA. Her background is in the music industry. I thought she could provide a more commercial point of view and let me know if the non-profit sections in particular were too niche or had any jargon. 
@@ -93,5 +93,43 @@ Intrigue: 4
 * Yes. I think the information presented is clear and understandable. 
 * No further comments. 
 
-
-
+#### Test User 2
+##### Viz #1
+* I think the main message of this visualization is to show how many people are attending shows on Broadway each year.
+Aesthetics: 4
+Mood: 5
+Clarity: 5
+Completeness: 4
+Intrigue: 5
+* I like this! It’s straightforward and does it’s job.
+##### Viz #2
+* This visualization is used to show that Broadway is grossing more each year, even while keeping inflation in mind.
+Aesthetics: 3
+Mood: 4
+Clarity: 3
+Completeness: 5
+Intrigue: 5
+* This graph is really wide and hard to look at. The columns are really close together and I lose track of which year I’m looking at.
+##### Viz #3
+* To show that the attendance rate of non-profit theatres is rising.
+Aesthetics: 5
+Mood: 5
+Clarity: 5
+Completeness: 5
+Intrigue: 5
+* You misspelled “theatre” in the explanation. Otherwise, looks good and tells the same story, although the downturn in 2018 may be turning against you!
+##### Viz #4
+* This is meant to show that non profit theatre revenue is also increasing.
+Aesthetics: 5
+Mood: 5
+Clarity: 5
+Completeness: 4
+Intrigue: 5
+* No inflation rates here?
+##### Overall
+1. Do you think there is a story inherent in the way the data is presented? 
+* Yes! I think this is interesting and it tells a story.
+2. If so, is the story easy to follow? 
+* Yes, the story goes from showing attendance rates to how that is affecting revenue.
+3. Do you have any other notes or recommendations about the overall flow of the piece?
+* I’d like to know how many more productions are being put on each year for something to compare against the attendance/revenue numbers.
