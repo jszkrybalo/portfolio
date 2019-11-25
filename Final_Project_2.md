@@ -71,7 +71,27 @@ Intrigue: 4
 * You have to scroll across to see everything. It would be better if its all together in one frame. 
 * The legend is hidden away on the right. It should be the first thing you see.
 ##### Viz #3
-* 
+* This one is showing attendance at non-profit theatres overall. On the whole, attendance has increased. 
+Aesthetics: 3.5
+Mood: 4
+Clarity: 4.5
+Completeness: 3.5
+Intrigue: 4
+* The world of nonprofit theatre is so huge. This needs to clarify what it includes: what types of theatres? How big?
+* Might be interesting to see side by side with Broadway to show our attendance is not rising as quickly. 
+* This one is less colorful and interesting to look at than the previous ones.
+##### Viz #4
+* Nonprofit theatres over time. Overall it has increased. when you scroll over it it even tells you contributed vs earned. 
+Aesthetics: 4
+Mood: 4
+Clarity: 3.5
+Completeness: 3.5
+Intrigue: 4
+* It might be interesting to have different colors for Broadway and Nonprofit? Or for Revenue and Attendance. It depends how you frame it. If you do a side by side comparison, they should be different colors. 
+##### Overall 
+* Yes. I think the story is that Broadway and theatre are not dying artforms, they actually have experienced great increases in attendance and revenue over the last several decades. 
+* Yes. I think the information presented is clear and understandable. 
+* No further comments. 
 
 
 
