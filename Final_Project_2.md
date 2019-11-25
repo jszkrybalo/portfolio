@@ -135,11 +135,11 @@ Completeness: 4
 Intrigue: 5
 * No inflation rates here?
 ##### Overall
-1. Do you think there is a story inherent in the way the data is presented? 
+Do you think there is a story inherent in the way the data is presented? 
  * Yes! I think this is interesting and it tells a story.
-2. If so, is the story easy to follow? 
+If so, is the story easy to follow? 
  * Yes, the story goes from showing attendance rates to how that is affecting revenue.
-3. Do you have any other notes or recommendations about the overall flow of the piece?
+Do you have any other notes or recommendations about the overall flow of the piece?
  * I’d like to know how many more productions are being put on each year for something to compare against the attendance/revenue numbers.
  
  
