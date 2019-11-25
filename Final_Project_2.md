@@ -175,4 +175,11 @@ Intrigue: 4
 * Yes
 * Nope
 
+### Conclusions from User Feedback
+The major conclusion that I drew from the user feedback is that I can lean in more to comparing Broadway and Nonprofit theatre. This is one of those conclusions that seems so obvious from the outside, but was almost impossible for me to see from my position as a nonprofit theatre practitioner. 
 
+It's been interesting to see how this story has evolved for me. I started out with just the Broadway data, and I figured I would tell a story about how theatre is doing pretty well, despite what you may have heard. But as I started to view it through the lens of storytelling, I realized that the message I want to send to audiences is not "the industry is fine, don't worry about us." I decided to add in the nonprofit information to make the story more personal, and end with an inspiring call to action to empower my audience to take part in their local arts organizations. 
+
+Even then, I was hesitant to directly compare the success of Broadway with regional nonprofit theatre,  because to me they are completely separate entities. But to a more general audience, they are two parts of the same industry. I can see now how I can use this to my advantage. 
+
+The audience attendance rates show that more and more people are attending theatre, both on Broadway and regionally. I can show through the data that while region theatre is serving a much wider audience, it is not seeing the same growth in revenues as Broadway. I can then use this information to encourage my audience to support local theatre as patrons and donors. 
