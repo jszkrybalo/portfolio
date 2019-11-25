@@ -13,11 +13,11 @@ I started out by drafting wireframe versions of the major components of my data 
 When I thought about presenting my story to my classmates in Telling Stories with Data, I realized that the class and Heinz College as a whole represent a much sought-after demographic in theatre and the arts; well-educated younger adults with an interest in either public policy, the arts, or information systems. So while my intended audience is actually the class, in a way they also represent a larger population of potential arts audiences that I am trying to entice with my story. 
 
 Using the class as a frame of reference, I have made some general assumptions about my audience. My audience is: 
-..* Age 22-35
-..* Pursuing a Master's Degree or higher
-..* Living in a smaller urban center with a rich arts and cultural district
-..* Interested in Public Policy (approx 60%) Arts Management (approx 20%) or Information Systems (approx 20%) 
-..* Above the poverty line, with some expendable income and large potential for expendable income in just a few years after graduation
+* Age 22-35
+* Pursuing a Master's Degree or higher
+* Living in a smaller urban center with a rich arts and cultural district
+* Interested in Public Policy (approx 60%) Arts Management (approx 20%) or Information Systems (approx 20%) 
+* Above the poverty line, with some expendable income and large potential for expendable income in just a few years after graduation
 
 ### Selecting Test Users
 
@@ -38,13 +38,17 @@ I asked each test user to look through my wireframes and storyboard and answer s
 ###### Please answer for each of the visualizations
 1. In your own words, please use 1-2 sentences to state what you think the main message of this visualization is. 
 2. Please rate the visualization on each of the following elements using the scale below:
+
 | 1-Very Bad | 2-Poor | 3-Fair | 4-Good | 5- Excellent |
+
   a.	Aesthetics- is it nice to look at?
   b.	Mood- do the colors and fonts suit the message?
   c.	Clarity- how easy is it to navigate and understand?
   d.	Completeness- does it seem like there’s information missing?
   e.	Intrigue- does it tell a story that interests you? 
+  
 3.	Please list any suggestions you have, or specific problem areas you’d like to see addressed:
+
 ###### Please answer for the overall story
 1.	Do you think there is a story inherent in the way the data is presented? 
 2.	If so, is the story easy to follow? 
@@ -55,7 +59,7 @@ I asked each test user to look through my wireframes and storyboard and answer s
 #### Test User 1
 ##### Viz #1
 * The message is that overall, over the time period shown, the number of people seeing Broadway shows has increased. 
-Aesthetics: 4
+* Aesthetics: 4
 Mood: 4
 Clarity: 4.5
 Completeness: 3.5 
@@ -63,7 +67,7 @@ Intrigue: 4.5
 * I know what Broadway is but everyone might not. Does this include off-bway? Just in NY? Travelling Shows?
 ##### Viz #2
 * This is showing the Broadway grosses and adjusted inflation. The overall message is that overall it has increased. I would say I’m impressed by the increase
-Aesthetics: 4
+* Aesthetics: 4
 Mood: 4
 Clarity: 3.5 
 Completeness: 4
@@ -72,7 +76,7 @@ Intrigue: 4
 * The legend is hidden away on the right. It should be the first thing you see.
 ##### Viz #3
 * This one is showing attendance at non-profit theatres overall. On the whole, attendance has increased. 
-Aesthetics: 3.5
+* Aesthetics: 3.5
 Mood: 4
 Clarity: 4.5
 Completeness: 3.5
@@ -82,7 +86,7 @@ Intrigue: 4
 * This one is less colorful and interesting to look at than the previous ones.
 ##### Viz #4
 * Nonprofit theatres over time. Overall it has increased. when you scroll over it it even tells you contributed vs earned. 
-Aesthetics: 4
+* Aesthetics: 4
 Mood: 4
 Clarity: 3.5
 Completeness: 3.5
@@ -96,7 +100,7 @@ Intrigue: 4
 #### Test User 2
 ##### Viz #1
 * I think the main message of this visualization is to show how many people are attending shows on Broadway each year.
-Aesthetics: 4
+* Aesthetics: 4
 Mood: 5
 Clarity: 5
 Completeness: 4
@@ -104,7 +108,7 @@ Intrigue: 5
 * I like this! It’s straightforward and does it’s job.
 ##### Viz #2
 * This visualization is used to show that Broadway is grossing more each year, even while keeping inflation in mind.
-Aesthetics: 3
+* Aesthetics: 3
 Mood: 4
 Clarity: 3
 Completeness: 5
@@ -112,7 +116,7 @@ Intrigue: 5
 * This graph is really wide and hard to look at. The columns are really close together and I lose track of which year I’m looking at.
 ##### Viz #3
 * To show that the attendance rate of non-profit theatres is rising.
-Aesthetics: 5
+* Aesthetics: 5
 Mood: 5
 Clarity: 5
 Completeness: 5
@@ -120,7 +124,7 @@ Intrigue: 5
 * You misspelled “theatre” in the explanation. Otherwise, looks good and tells the same story, although the downturn in 2018 may be turning against you!
 ##### Viz #4
 * This is meant to show that non profit theatre revenue is also increasing.
-Aesthetics: 5
+* Aesthetics: 5
 Mood: 5
 Clarity: 5
 Completeness: 4
@@ -138,28 +142,28 @@ Intrigue: 5
  #### Test User 3
 ##### Viz #1
 * I think the main message of this visualization is that Broadway is seeing increases in attendance. 
-Aesthetics: 5
+* Aesthetics: 5
 Mood: 5
 Clarity: 5
 Completeness: 5
 Intrigue: 3
 ##### Viz #2
 * I think the main message of this visualization is that Broadway is also seeing a general increase in revenue through time. 
-Aesthetics: 5
+* Aesthetics: 5
 Mood: 5
 Clarity: 5
 Completeness: 5
 Intrigue: 4
 ##### Viz #3
 * This visual shows me the non-profit theatre has an overall increase of attendance over time. 
-Aesthetics: 5
+* Aesthetics: 5
 Mood: 5
 Clarity: 5
 Completeness: 5
 Intrigue: 4
 ##### Viz #4
 * This visualization shows the overall growth of revenue specifically for non-profit theatre. 
-Aesthetics: 5
+* Aesthetics: 5
 Mood: 4
 Clarity: 5
 Completeness: 4
