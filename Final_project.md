@@ -53,4 +53,7 @@ I will be using Shorthand to create my final project. From a cursory exploration
 
 ## Part Two: Wireframes and Feedback
 
+[Wireframes](/Wireframes.md)
+
+
 
