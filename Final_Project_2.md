@@ -143,7 +143,7 @@ Intrigue: 5
  * I’d like to know how many more productions are being put on each year for something to compare against the attendance/revenue numbers.
  
  
- #### Test User 3
+#### Test User 3
 ##### Viz #1
 * I think the main message of this visualization is that Broadway is seeing increases in attendance. 
 * Aesthetics: 5
