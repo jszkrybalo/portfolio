@@ -42,9 +42,13 @@ I asked each test user to look through my wireframes and storyboard and answer s
 | 1-Very Bad | 2-Poor | 3-Fair | 4-Good | 5- Excellent |
 
   a.	Aesthetics- is it nice to look at?
+  
   b.	Mood- do the colors and fonts suit the message?
+  
   c.	Clarity- how easy is it to navigate and understand?
+  
   d.	Completeness- does it seem like there’s information missing?
+  
   e.	Intrigue- does it tell a story that interests you? 
   
 3.	Please list any suggestions you have, or specific problem areas you’d like to see addressed:
