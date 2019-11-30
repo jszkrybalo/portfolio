@@ -5,7 +5,7 @@
 
 Take a look at how many people are seeing Broadway shows
 
-<iframe src= “https://public.tableau.com/views/FinalProjWireframes/GrosseswInflation?:showVizHome=no&:embed=true” width=”90%” height=”500”> </iframe>
+<iframe src="https://public.tableau.com/views/FinalProjWireframes/GrosseswInflation?:showVizHome=no&:embed=true" width="90%" height="500"> </iframe>
 
 
 
