@@ -29,3 +29,39 @@ I will admit that I struggled with color, which I think was my fault in that I s
 * I wanted the "adjusted for inflation" lines to be grey, since they represented more of a concept than hard data.
 
 Lastly, I do wish I had found a way to create the bubble callouts representing popular (or infamous) Broadway shows on the attendance graph. Unfortunately this was a bit above my skill level and while I tried a few options, nothing worked as well as I had envisioned. 
+
+### Final Sources
+
+#### Data Sources
+
+* Broadway Grosses and Attendance courtesy of The Broadway League: <https://broadwayleague.com/research/grosses-broadway-nyc/>
+* Non-Profit Revenue and Attendance courtesy of TCG's "TheatreFacts" reports years 2000-2018. Available to view online at <http://www.tcg.org/Default.aspx?TabID=1576>
+* Broadway Theatre locations in Google Maps courtesy of Broadway.org <https://www.broadway.org/broadway-theatres> and Google Maps data
+* Inflation calculated using the Bureau of Labor Statistics' inflation calculator: <https://stats.bls.gov/data/inflation_calculator.htm>
+
+#### Image Sources for Presentation
+Landing page animation:
+* Images from The Kings Theatre, via the Brooklyn Eagle: https://brooklyneagle.com/articles/2019/06/28/tour-the-kings-theatre/
+* Animation made with EZgif.com: https://ezgif.com/maker
+
+Hamilton Quote:
+* Tenor: https://tenor.com/view/lin-manuel-miranda-hamilton-gif-5566556
+* Quote by Lin-Manuel Miranda, from the musical Hamilton
+
+Broadway Background Image:
+* http://gaylesbroadwayrose.com/ via Google image search
+
+Non-Profit Theatre Background Image:
+* https://www.fodors.com/news/arts-culture/10-best-regional-theaters-in-the-us#!2-cleveland-play-house courtesy of kevinberne.com, via Google image search
+
+Non-Profit Theatre Map Image:
+* Screenshot from HowlRound's World Theatre Map directory: https://www.worldtheatremap.org/en
+
+"What does it all mean?" Background Image:
+* https://baltimore.broadway.com/wp-content/uploads/sites/3/2018/12/143_BAL_1819_ArtElementsforNewWebsite_Theater.jpg via Google Image Search
+
+Scrollmation Images (all via Google Image Search):
+* https://www.bricolagepgh.org/wp-content/uploads/2016/07/DSC_0019.jpg
+* https://www.artsburgh.org/venue/city-theatre/
+* https://www.artsburgh.org/organization/quantum-theatre/
+
