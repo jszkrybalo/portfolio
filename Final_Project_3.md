@@ -41,27 +41,27 @@ Lastly, I do wish I had found a way to create the bubble callouts representing p
 
 #### Image Sources for Presentation
 Landing page animation:
-* Images from The Kings Theatre, via the Brooklyn Eagle: https://brooklyneagle.com/articles/2019/06/28/tour-the-kings-theatre/
-* Animation made with EZgif.com: https://ezgif.com/maker
+* Images from The Kings Theatre, via the Brooklyn Eagle: <https://brooklyneagle.com/articles/2019/06/28/tour-the-kings-theatre/>
+* Animation made with EZgif.com: <https://ezgif.com/maker>
 
 Hamilton Quote:
-* Tenor: https://tenor.com/view/lin-manuel-miranda-hamilton-gif-5566556
+* Tenor: <https://tenor.com/view/lin-manuel-miranda-hamilton-gif-5566556>
 * Quote by Lin-Manuel Miranda, from the musical Hamilton
 
 Broadway Background Image:
-* http://gaylesbroadwayrose.com/ via Google image search
+* <http://gaylesbroadwayrose.com/> via Google image search
 
 Non-Profit Theatre Background Image:
-* https://www.fodors.com/news/arts-culture/10-best-regional-theaters-in-the-us#!2-cleveland-play-house courtesy of kevinberne.com, via Google image search
+* <https://www.fodors.com/news/arts-culture/10-best-regional-theaters-in-the-us#!2-cleveland-play-house> courtesy of <kevinberne.com>, via Google image search
 
 Non-Profit Theatre Map Image:
-* Screenshot from HowlRound's World Theatre Map directory: https://www.worldtheatremap.org/en
+* Screenshot from HowlRound's World Theatre Map directory: <https://www.worldtheatremap.org/en>
 
 "What does it all mean?" Background Image:
-* https://baltimore.broadway.com/wp-content/uploads/sites/3/2018/12/143_BAL_1819_ArtElementsforNewWebsite_Theater.jpg via Google Image Search
+* <https://baltimore.broadway.com/wp-content/uploads/sites/3/2018/12/143_BAL_1819_ArtElementsforNewWebsite_Theater.jpg> via Google Image Search
 
 Scrollmation Images (all via Google Image Search):
-* https://www.bricolagepgh.org/wp-content/uploads/2016/07/DSC_0019.jpg
-* https://www.artsburgh.org/venue/city-theatre/
-* https://www.artsburgh.org/organization/quantum-theatre/
+* <https://www.bricolagepgh.org/wp-content/uploads/2016/07/DSC_0019.jpg>
+* <https://www.artsburgh.org/venue/city-theatre/>
+* <https://www.artsburgh.org/organization/quantum-theatre/>
 
