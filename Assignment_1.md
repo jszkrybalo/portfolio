@@ -9,4 +9,4 @@ For this assignment, I was tasked with identifying the strengths and weaknesses 
 
 
 
-[Next ->](/OECD.md)
+[View Next >>](/OECD.md)
