@@ -183,6 +183,7 @@ It's been interesting to see how this story has evolved for me. I started out wi
 Even then, I was hesitant to directly compare the success of Broadway with regional nonprofit theatre,  because to me they are completely separate entities. But to a more general audience, they are two parts of the same industry. I can see now how I can use this to my advantage. 
 
 The audience attendance rates show that more and more people are attending theatre, both on Broadway and regionally. I can show through the data that while region theatre is serving a much wider audience, it is not seeing the same growth in revenues as Broadway. I can then use this information to encourage my audience to support local theatre as patrons and donors. 
+*******************
 
 [<< View Previous](/Final_Project_1.md) [View Next >>](/Final_Project_3.md)
 
