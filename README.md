@@ -19,10 +19,10 @@ Furthermore, I would like to learn best practices for creating data visualizatio
 ### Assignment 2: OECD Visualizations
 [Assignment 2](/OECD.md)
 
-### Assignment 3 and 4: 
+### Assignment 3 and 4: Critique By Design
 [Assignment 3 and 4](/Assignment3.md)
 
-### Final Project
+### Final Project: Data Story
 [Part One](/Final_project.md)
 
 [Part Two](/Final_Project_2.md)
