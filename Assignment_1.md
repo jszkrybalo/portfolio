@@ -4,4 +4,4 @@ For this assignment, I was tasked with identifying the strengths and weaknesses 
 
 [View Assignment in Google Sheets](https://docs.google.com/spreadsheets/d/1dT4hSPAmbzQP5jiMFWz6yhKa9lW6aaSUR5Fxu6HYL_I/edit?usp=sharing)
 
-[Download Assignment as Excel file](/Szkrybalo, Jacelyn- Critique #1_ Economist bar chart (The Good Charts Matrix).xlsx)
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_quO8O9wryYl8lXLbkqDah7SL0w3XxMwT349yYf_LxA6MGfm0PMWsv4A2qu87zivEGTqLeIONuLjI/pubhtml?widget=true&amp;headers=false"></iframe>
