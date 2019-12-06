@@ -23,7 +23,7 @@ And these revenue stats!
 <iframe src="https://public.tableau.com/views/FinalProjWireframes/NonProfitRevenue?%3AshowVizHome=no&%3Aembed=true" width="90%" height="500"> </iframe>
 
 ## Conclusions
-This is a Wireframing exercise so just pretend I wrote a conclusion here. 
+This is a conclusion. 
 
 
 [Return to Final Project Part Two](/Final_Project_2.md)
