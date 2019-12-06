@@ -54,7 +54,7 @@ I will be using Shorthand to create my final project. From a cursory exploration
 
 [<< View Previous](/Assignment_3_4.md) [View Next >>](/Final_Project_2.md)
 
-[Return Home](/Home.md)
+[Return Home](/README.md)
 
 
 
