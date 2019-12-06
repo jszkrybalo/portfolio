@@ -24,8 +24,11 @@ Lastly, I'm not sure it's necessary to compare our data point of interest (Thund
 
 I really struggle with pen and paper, so I actually created very rough drafts in tableau to serve as my wireframes. I did not take the time to adjust all the labels and details. Here are some of my disastrous first iterations: 
 ![One](Wireframe 1.png){:height="70%" width="70%"}
-![Two](wireframe 2.png){:height="50%" width="50%"}
-![Three](wireframe 3.png){:height="50%" width="50%"}
+
+![Two](wireframe 2.png){:height="30%" width="30%"}
+
+![Three](wireframe 3.png){:height="30%" width="30%"}
+
 ![Four](wireframe 4.png)
 
 
