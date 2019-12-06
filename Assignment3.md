@@ -47,3 +47,7 @@ For the second solution, I took the original visualization and tried to remove a
 ![Solution 2](simplified-page-001.jpg)
 
 Overall, this was a very tough exercise for me and really gave me a deeper level of sympathy and understanding for whoever created that first terrible visualization. I'm not sure I could have done much better. 
+**********************
+[<< View Previous      ](/OECD.md)[View Next >>]
+
+[Return Home](/README.md)
