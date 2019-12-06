@@ -16,10 +16,10 @@ Furthermore, I would like to learn best practices for creating data visualizatio
 ### Assignment 1: Data Visualization Critique
 [Assignment 1](/Assignment_1.md)
 
-### OECD Visualizations
-[OECD Visualizations](/OECD.md)
+### Assignment 2: OECD Visualizations
+[Assignment 2](/OECD.md)
 
-### Assignment 3 and 4
+### Assignment 3 and 4: 
 [Assignment 3 and 4](/Assignment3.md)
 
 ### Final Project
