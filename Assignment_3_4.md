@@ -27,7 +27,7 @@ I really struggle with pen and paper, so I actually created very rough drafts in
 
 ![Two](wireframe 2.png){:height="30%" width="30%"}
 
-![Three](wireframe 3.png){:height="30%" width="30%"}
+![Three](wireframe 3.png){:height="40%" width="40%"}
 
 ![Four](wireframe 4.png)
 
