@@ -7,6 +7,7 @@ For this assignment, I was tasked with identifying the strengths and weaknesses 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS_quO8O9wryYl8lXLbkqDah7SL0w3XxMwT349yYf_LxA6MGfm0PMWsv4A2qu87zivEGTqLeIONuLjI/pubhtml?widget=true&amp;headers=false" width="100%" height="500"></iframe>
 
 
+**********
 
 
-<div style="text-align: right"> [View Next >>](/OECD.md) </div>
+-> [View Next >>](/OECD.md) <-
