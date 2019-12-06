@@ -9,4 +9,4 @@ For this assignment, I was tasked with identifying the strengths and weaknesses 
 
 
 
-[View Next >>](/OECD.md)
+<div style="text-align: right"> [View Next >>](/OECD.md) </div>
