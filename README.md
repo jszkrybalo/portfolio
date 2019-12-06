@@ -13,6 +13,9 @@ Furthermore, I would like to learn best practices for creating data visualizatio
 
 ## Portfolio
 
+### Assignment 1: Data Visualization Critique
+[Assignment 1](/Assignment_1.md)
+
 ### OECD Visualizations
 [OECD Visualizations](/OECD.md)
 
