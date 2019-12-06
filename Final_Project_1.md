@@ -57,6 +57,7 @@ Finally, data about the economics of non-profit theatre companies comes from TCG
 ### Methods
 I will be using Shorthand to create my final project. From a cursory exploration, it seems user-friendly enough for me to use to create a successful project that will be engaging, interactive, and informative. Especially since I'm using a lot of relatively simple chart types that may not immediately engage my audience, I want to make the entire presentation as interactive as possible. I am nervous about learning a new tool, but I'm confident in my storytelling skills. 
 
+
 ****************************
 
 [<< View Previous](/Assignment_3_4.md) [View Next >>](/Final_Project_2.md)
