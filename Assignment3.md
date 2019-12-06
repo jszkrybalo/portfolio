@@ -1,4 +1,5 @@
 # Assignment 3 and 4: Critique by Design
+###### The purpose of this assignment was to find a data visualization that could use some improvement, critique it, and then attempt to re-design it by creating a new visualization. Below is the summary of my process.
 
 ### Step One
 For this assignment, I took the easy route and Googled "terrible data viz". 
