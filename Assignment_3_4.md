@@ -27,7 +27,7 @@ I really struggle with pen and paper, so I actually created very rough drafts in
 
 ![Two](wireframe 2.png){:height="30%" width="30%"}
 
-![Three](wireframe 3.png){:height="40%" width="40%"}
+![Three](wireframe 3.png){:height="50%" width="50%"}
 
 ![Four](wireframe 4.png)
 
@@ -51,7 +51,9 @@ For the second solution, I took the original visualization and tried to remove a
 ![Solution 2](simplified-page-001.jpg)
 
 Overall, this was a very tough exercise for me and really gave me a deeper level of sympathy and understanding for whoever created that first terrible visualization. I'm not sure I could have done much better. 
+
 **********************
+
 [<< View Previous      ](/Assignment_2.md)[View Next >>](/Final_Project_1.md)
 
 [Return Home](/README.md)
