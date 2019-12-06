@@ -17,13 +17,13 @@ Furthermore, I would like to learn best practices for creating data visualizatio
 [Assignment 1](/Assignment_1.md)
 
 ### Assignment 2: OECD Visualizations
-[Assignment 2](/OECD.md)
+[Assignment 2](/Assignment_2.md)
 
 ### Assignment 3 and 4: Critique By Design
-[Assignment 3 and 4](/Assignment3.md)
+[Assignment 3 and 4](/Assignment_3_4.md)
 
 ### Final Project: Data Story
-[Part One](/Final_project.md)
+[Part One](/Final_Project_1.md)
 
 [Part Two](/Final_Project_2.md)
 
